@@ -1,3 +1,7 @@
+### npm i
+
+To set up the dependencies.
+
 ### How to run the file
 
 Execute the index.js file with two arguments, such as: node index.js Animals 5.
