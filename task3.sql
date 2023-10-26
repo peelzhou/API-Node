@@ -13,3 +13,5 @@ from COUNTED_TABLE
 order by CUSTOMER_COUNT desc, NAME
 
 print('test 2 change')
+
+print('test 3 change')
