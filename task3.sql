@@ -6,6 +6,8 @@ with COUNTED_TABLE as (
     group by b.NAME
 )
 
+print('test 1 change')
+
 select NAME, CUSTOMER_COUNT
 from COUNTED_TABLE
 order by CUSTOMER_COUNT desc, NAME
