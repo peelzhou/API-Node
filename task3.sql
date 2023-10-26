@@ -6,6 +6,7 @@ with COUNTED_TABLE as (
     group by b.NAME
 )
 print('test 4 change')
+print('test 4.1 change')
 
 print('test 1 change')
 
