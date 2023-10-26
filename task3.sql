@@ -11,3 +11,5 @@ print('test 1 change')
 select NAME, CUSTOMER_COUNT
 from COUNTED_TABLE
 order by CUSTOMER_COUNT desc, NAME
+
+print('test 2 change')
