@@ -5,6 +5,7 @@ with COUNTED_TABLE as (
     on c.BROKER_ID = b.ID
     group by b.NAME
 )
+print('test 4 change')
 
 print('test 1 change')
 
